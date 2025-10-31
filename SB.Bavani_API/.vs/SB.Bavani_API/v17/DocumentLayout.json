@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Bavani_Git\\Bavani_Projects\\SB.Bavani_API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.js",
+              "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\wwwroot\\js\\Login.js",
+              "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\wwwroot\\js\\Login.js",
+              "ToolTip": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\wwwroot\\js\\Login.js",
+              "RelativeToolTip": "..\\S.B.Bavani_MVC\\wwwroot\\js\\Login.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-31T12:03:45.683Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\S.B.Bavani_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:08:20.271Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "..\\S.B.Bavani_MVC\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T12:07:06.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\S.B.Bavani_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwDEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T12:02:22.644Z",
+              "EditorCaption": ""
             }
           ]
         }

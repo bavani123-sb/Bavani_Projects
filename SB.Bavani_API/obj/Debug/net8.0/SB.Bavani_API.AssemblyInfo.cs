@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SB.Bavani_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16bf36ede6a687b10c37dc617f6965468deedb92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e5d8a786e936b03f3201ff51f320fb06a994b42")]
 [assembly: System.Reflection.AssemblyProductAttribute("SB.Bavani_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SB.Bavani_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

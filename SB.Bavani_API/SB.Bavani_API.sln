@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SB.Bavani_API", "SB.Bavani_API.csproj", "{21C63080-2B71-4C4C-8FD7-25EAD37F9F83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SB.Bavani_API", "SB.Bavani_API.csproj", "{21C63080-2B71-4C4C-8FD7-25EAD37F9F83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S.B.Bavani_MVC", "..\S.B.Bavani_MVC\S.B.Bavani_MVC.csproj", "{66FC49BD-4A92-4515-97DF-2A2871BB0839}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{21C63080-2B71-4C4C-8FD7-25EAD37F9F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21C63080-2B71-4C4C-8FD7-25EAD37F9F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21C63080-2B71-4C4C-8FD7-25EAD37F9F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66FC49BD-4A92-4515-97DF-2A2871BB0839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FC49BD-4A92-4515-97DF-2A2871BB0839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FC49BD-4A92-4515-97DF-2A2871BB0839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FC49BD-4A92-4515-97DF-2A2871BB0839}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
