@@ -12,11 +12,34 @@ namespace S.B.Bavani_MVC.Controllers
         {
             _logger = logger;
         }
+        #region Login page methods
 
         public IActionResult Index()
         {
             return View();
         }
+        [HttpPost]
+        [Route("/validate/user")]
+        public JsonResult validateLogin([FromBody] UserInfo inputData)
+        {
+            if (inputData != null && inputData.username == "Admin" && inputData.password == "1234")
+            {
+                return Json(new
+                {
+                    success = true,
+                    message = "Login successful"
+                });
+            }
+
+            return Json(new
+            {
+                success = false,
+                message = "Invalid UserName or PassWord."
+            });
+        }
+#endregion
+
+
 
         public IActionResult privacy()
         {

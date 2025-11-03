@@ -1,0 +1,55 @@
+﻿@model List<EmployeeInfo>
+
+@{
+
+}
+
+
+<script src="~/js/Employee.js"></script>
+<style>
+
+    label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: 500;
+    }
+</style>
+
+<h1>Employee Form</h1>
+
+<label>First Name:</label>
+<input type="text" id="empFirstName" placeholder="Enter employee FisrtName" />
+<label id="firstNameError" style="color:red; display:none;">FirstName is required</label>
+<br>
+<br>
+
+<label>Last Name:</label>
+<input type="text" id="empLastName" placeholder="Enter employee LastName" />
+<label id="lastNameError" style="color:red; display:none;">LastName is required</label>
+<br>
+<br>
+
+<label>User Name:</label>
+<input type="text" id="empUserName" placeholder="Enter employee UserName" />
+<label id="userNameError" style="color:red; display:none;">UserName is required</label>
+<br>
+<br>
+
+<label>Password:</label>
+<input type="text" id="empPassword" placeholder="Enter employee Password" />
+<label id="passwordError" style="color:red; display:none;">Password is required</label>
+<br>
+<br>
+
+<label>Email:</label>
+<input type="text" id="empEmail" placeholder="Enter employee Email" />
+<label id="emailError" style="color:red; display:none;">Email is required</label>
+<br>
+<br>
+
+
+<button type="button" onclick="addEmployee()">Add</button>
+<br>
+<br>
+
+<a href="/Employee/EmployeeList">Go to Employee List</a>

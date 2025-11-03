@@ -3,16 +3,34 @@
   "WorkspaceRootPath": "D:\\Bavani_Git\\Bavani_Projects\\SB.Bavani_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\views\\employee\\employeeform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\views\\employee\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\views\\shared\\_employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\models\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\wwwroot\\js\\employee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66FC49BD-4A92-4515-97DF-2A2871BB0839}|..\\S.B.Bavani_MVC\\S.B.Bavani_MVC.csproj|d:\\bavani_git\\bavani_projects\\s.b.bavani_mvc\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +44,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Login.js",
               "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\wwwroot\\js\\Login.js",
               "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\wwwroot\\js\\Login.js",
@@ -39,25 +57,103 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "..\\S.B.Bavani_MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T12:08:20.271Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeInfo.cs",
+              "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Models\\EmployeeInfo.cs",
+              "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\Models\\EmployeeInfo.cs",
+              "ToolTip": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Models\\EmployeeInfo.cs",
+              "RelativeToolTip": "..\\S.B.Bavani_MVC\\Models\\EmployeeInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:46:36.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "..\\S.B.Bavani_MVC\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T02:13:26.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_EmployeeList.cshtml",
+              "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Views\\Shared\\_EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\Views\\Shared\\_EmployeeList.cshtml",
+              "ToolTip": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Views\\Shared\\_EmployeeList.cshtml",
+              "RelativeToolTip": "..\\S.B.Bavani_MVC\\Views\\Shared\\_EmployeeList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T02:12:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.js",
+              "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\wwwroot\\js\\Employee.js",
+              "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\wwwroot\\js\\Employee.js",
+              "ToolTip": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\wwwroot\\js\\Employee.js",
+              "RelativeToolTip": "..\\S.B.Bavani_MVC\\wwwroot\\js\\Employee.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-03T02:10:25.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeList.cshtml",
+              "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Views\\Employee\\EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\Views\\Employee\\EmployeeList.cshtml",
+              "ToolTip": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Views\\Employee\\EmployeeList.cshtml",
+              "RelativeToolTip": "..\\S.B.Bavani_MVC\\Views\\Employee\\EmployeeList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T02:09:58.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeForm.cshtml",
+              "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Views\\Employee\\EmployeeForm.cshtml",
+              "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\Views\\Employee\\EmployeeForm.cshtml",
+              "ToolTip": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Views\\Employee\\EmployeeForm.cshtml",
+              "RelativeToolTip": "..\\S.B.Bavani_MVC\\Views\\Employee\\EmployeeForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T02:09:38.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\S.B.Bavani_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAYwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:08:20.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Views\\Home\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\Views\\Home\\Dashboard.cshtml",
@@ -70,13 +166,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\S.B.Bavani_MVC\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Bavani_Git\\Bavani_Projects\\S.B.Bavani_MVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "..\\S.B.Bavani_MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAwwDEAAAAlAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-31T12:02:22.644Z",
               "EditorCaption": ""
